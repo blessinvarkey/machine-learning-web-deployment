@@ -1,4 +1,4 @@
-# machine-learning-web-deployment
+# web-developement-with-flask
 
 - Web app essentials: html, css, javascript
 - Front end libraries: bootstrap, Plotly
