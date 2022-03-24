@@ -15,8 +15,15 @@ __Plotly:__ a javascript library to make data visualizations easy
 pip install flask, plotly, json
 For error installing flask env/Flask check [here](https://stackoverflow.com/questions/31252791/flask-importerror-no-module-named-flask).
 
+Create a virtual env
+```
+virtualenv flask
+cd flask
+```
+to activate
+```
+source bin/activate
+```
+you should be able to see (flask) on the left of the command line. Once you do, run the app file.
 
-```
-terminal
-```
 ![](terminal.png)
